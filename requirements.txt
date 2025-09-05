@@ -1,0 +1,8 @@
+pdfplumber
+PyYAML
+streamlit
+pytest
+pandas
+pdf2image
+pytesseract
+Pillow
